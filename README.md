@@ -10,6 +10,9 @@ DS105L – Data for Data Science
 
 _"Ugh! Why is this a full GitHub repository and not just a `.ipynb` to download?" I hear you ask. So that you can practice with `git` and `GitHub`!_
 
+
+![](output/got_network.svg)
+
 ### 🐍 The Python setup
 
 1. Install [Python 3.9](python.org) or higher on your computer.
