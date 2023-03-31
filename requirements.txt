@@ -10,10 +10,14 @@ beautifulsoup4==4.11.2
 # Visualization
 matplotlib==3.7.0
 plotnine==0.10.1 # Python version of ggplot2
-networkx>=2
 tabulate==0.9.0
 altair>=5.0.0rc1
+
+#Networks stuff
+igraph==0.10.4
+networkx==2.8.8
 nx_altair==0.1.6
+fa2==0.3.5 # https://github.com/bhargavchippada/forceatlas2
 
 # Stuff VSCode needs
 ipykernel==6.21.2
